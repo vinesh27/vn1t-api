@@ -1,0 +1,9 @@
+[
+  {
+    "name": "projectName",
+    "techStack": ["java"],
+    "description": "projectDescription",
+    "url": "projectUrl",
+    "github": "projectGithubRepositoryUrl"
+  }
+]
