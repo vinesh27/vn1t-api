@@ -61,4 +61,5 @@ typings/
 .next
 
 # dangerous if leaked online
-./routes/projects
+
+routes/projects.js
